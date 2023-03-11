@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serj-C.
 - 👀 I’m interested in Software Engineering and Computer Science.
-- 🌱 I’m currently learning Java, Spring Framework, Spring Boot, Jakarta EE.
+- 🌱 I’m currently learning Java, Spring Framework, Jakarta EE, Quarkus.
 - 💞️ I’m looking to collaborate on any challenging project in case that opportunity shows up.
 - 📫 How to reach me: https://github.com/Serj-C, serj.cibotarica@gmail.com
 
